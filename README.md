@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Tomico-DEV
-- 👀 I’m interested in hardware and software hacking
-- 🌱 I’m currently learning c++ and swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Heya, I’m @Tomico-DEV
+I'm a tinkerer. Nice to meet you!
+
 
 <!---
 Tomico-DEV/Tomico-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
