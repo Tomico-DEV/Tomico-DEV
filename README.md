@@ -1,5 +1,5 @@
-Heya, I’m @Tomico-DEV
-I'm a tinkerer. Nice to meet you!
+Heya, I’m @Tomico-DEV.
+I'm a tinkerer and a to-be robotics engineer. よろしく!
 
 
 <!---
